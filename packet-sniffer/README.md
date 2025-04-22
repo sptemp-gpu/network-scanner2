@@ -38,12 +38,6 @@ Logs saved to `logs/packet_log.txt`
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot](assets/screenshot.png)
-
----
-
 ## 🛡️ Legal Disclaimer
 
 This tool is made for **educational purposes** only. Do not use it on networks without permission.
